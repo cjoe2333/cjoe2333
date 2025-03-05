@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Ph.D. student at Chengdu University of Technology, focusing on geological disaster prevention and control. My research mainly involves slope stability analysis and landslide early warning system development. I'm also an outdoor sports enthusiast, especially running and hiking, which help me stay fit and mentally sharp for tackling research challenges.
 <!--
 **cjoe2333/cjoe2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
